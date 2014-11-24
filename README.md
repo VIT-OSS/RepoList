@@ -1,6 +1,11 @@
 #RepoList
 
-A gateway to all the opensource projects by VITian
+A lot of VITians are working on some amazing projects.
+Phone Apps, WebApps, scripts, extensions and a lot more.
+This is an effort to bring these scattered ideas together and provide a place for them to be showcased and appreciated.
+
+If you are working on something cool and opensource , add your projects to the list.
+
 
 ##VIT academics and apps
 
