@@ -13,7 +13,7 @@ Android App - [VITacademics for Android](https://github.com/saurabhsjoshi/VITaca
 
 iOS App - [VITacademics for iOS](https://github.com/biocross/VITacademics-v2-for-iOS)
 
-Windows App - [VITacademics app for Windows](https://github.com/saurabhsjoshi/VITacademics-for-WindowsPhone)
+Windows App - [VITacademics for Windows](https://github.com/saurabhsjoshi/VITacademics-for-WindowsPhone)
 
 Backend & WebApp - [VITacademics](https://github.com/aneesh-neelam/VITacademics)
 
@@ -33,9 +33,9 @@ Android App - [Faculty](https://github.com/Nikh13/Faculty)
 
 Script to check - [Pronto Usage](https://github.com/karthikb351/ProntoUsage)
 
-Mac App - [VOLSBB autologin](https://github.com/biocross/VOLSBB-Mac-Auto-Login)
+Mac App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Mac-Auto-Login)
 
-iOS App - [VOLSBB autologin](https://github.com/biocross/VOLSBB-Auto-Login-for-iOS)
+iOS App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Auto-Login-for-iOS)
 
 ## FFCS
 
