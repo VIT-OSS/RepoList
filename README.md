@@ -4,49 +4,47 @@ A lot of VITians are working on some amazing projects.
 Phone Apps, WebApps, scripts, extensions and a lot more.
 This is an effort to bring these scattered ideas together and provide a place for them to be showcased and appreciated.
 
-If you are working on something cool and opensource , add your projects to the list.
+If you are working on something cool and open source, add your projects to the list.
 
 
-##VIT academics and apps
+##VITacademics
 
-Android App [VIT academics for Android](https://github.com/saurabhsjoshi/VITacademics-for-Android)
+Android App - [VITacademics for Android](https://github.com/saurabhsjoshi/VITacademics-for-Android)
 
-iOS App [VIT academics for iOS](https://github.com/biocross/VITacademics-v2-for-iOS)
+iOS App - [VITacademics for iOS](https://github.com/biocross/VITacademics-v2-for-iOS)
 
-Windows App [VIT academics app for Windows](https://github.com/saurabhsjoshi/VITacademics-for-WindowsPhone)
+Windows App - [VITacademics for Windows](https://github.com/saurabhsjoshi/VITacademics-for-WindowsPhone)
 
-JS implemenation [VIT academics](https://github.com/aneesh-neelam/VITacademics)
-
-All [VIT procedures](https://github.com/sreeram-boyapati/VITProcedures) in one place
-
-
+Backend & WebApp - [VITacademics](https://github.com/aneesh-neelam/VITacademics)
 
 ## VITacademics-Faculty
-JS implementation [VITacademics-Faculty](https://github.com/kishore-narendran/vitacademics-faculty-dev)
+
+Backend - [VITacademics-Faculty](https://github.com/kishore-narendran/vitacademics-faculty-dev)
+
+Android App - [Faculty](https://github.com/Nikh13/Faculty)
 
 ## Captcha Parsers
 
-[Captcha Parser for chrome](https://github.com/karthikb351/AutoCaptcha-for-Chrome)
+[Captcha Parser Extension for Chrome/Firefox](https://github.com/karthikb351/AutoCaptcha-for-Chrome)
 
-[Captcha Parser in python](https://github.com/karthikb351/CaptchaParser)
+[Captcha Parsing Library for Python/JavaScript](https://github.com/karthikb351/CaptchaParser)
 
 ## Pronto Stuff
 
-Tool to check [Pronto Usage](https://github.com/karthikb351/ProntoUsage)
+Script to check - [Pronto Usage](https://github.com/karthikb351/ProntoUsage)
 
-MAC [VOLSBB autologin](https://github.com/biocross/VOLSBB-Mac-Auto-Login)
+Mac App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Mac-Auto-Login)
 
-iOS [VOLSBB autologin](https://github.com/biocross/VOLSBB-Auto-Login-for-iOS)
+iOS App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Auto-Login-for-iOS)
 
 ## FFCS
 
-[FFCS Add Drop Automation](https://github.com/akshaydixi/ffcs-zapper)
+[FFCS Add/Drop Automation](https://github.com/akshaydixi/ffcs-zapper)
 
 ## Others
 
-Speedup Python with [Medusa](https://github.com/rahul080327/medusa)
+VIT Procedures & Guide - [VITProcedures](https://github.com/sreeram-boyapati/VITProcedures)
 
-[IEEE CS GPL](https://github.com/IEEECS-VIT/GPL/) 
+Speed up Python using this Compiler/Runtime - [Medusa](https://github.com/rahul080327/medusa)
 
-
-
+[GraVITas Premier League](https://github.com/IEEECS-VIT/GPL/) by IEEE-CS VIT Student Chapter
