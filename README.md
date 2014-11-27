@@ -37,6 +37,8 @@ Mac App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Mac-Auto-Login)
 
 iOS App - [VOLSBB Auto Login](https://github.com/biocross/VOLSBB-Auto-Login-for-iOS)
 
+Bash Script for [Volsbb-client](https://github.com/Fa773NM0nK/volsbb-client)
+
 ## FFCS
 
 [FFCS Add/Drop Automation](https://github.com/akshaydixi/ffcs-zapper)
