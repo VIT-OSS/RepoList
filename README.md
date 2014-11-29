@@ -17,6 +17,8 @@ Windows App - [VITacademics for Windows](https://github.com/saurabhsjoshi/VITaca
 
 Backend & WebApp - [VITacademics](https://github.com/aneesh-neelam/VITacademics)
 
+Python Client - [VITacademics Client-Python](https://github.com/aneesh-neelam/VITacademics-Client-Python)
+
 ## VITacademics-Faculty
 
 Backend - [VITacademics-Faculty](https://github.com/kishore-narendran/vitacademics-faculty-dev)
