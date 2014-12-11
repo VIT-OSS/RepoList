@@ -52,5 +52,7 @@ VIT Procedures & Guide - [VITProcedures](https://github.com/sreeram-boyapati/VIT
 Speed up Python using this Compiler/Runtime - [Medusa](https://github.com/rahul080327/medusa)
 
 [GraVITas Premier League](https://github.com/IEEECS-VIT/GPL/) by IEEE-CS VIT Student Chapter
+
 [VITCloud](https://github.com/biocross/VITCloud)
+
 [VITCloud-dev](https://github.com/aneesh-neelam/VITcloud-Dev)
