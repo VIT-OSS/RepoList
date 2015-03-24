@@ -56,3 +56,11 @@ Speed up Python using this Compiler/Runtime - [Medusa](https://github.com/rahul0
 [VITCloud](https://github.com/biocross/VITCloud)
 
 [VITCloud-dev](https://github.com/aneesh-neelam/VITcloud-Dev)
+
+[VIT Faculty Database-Android] (https://github.com/vatsal13/VIT-Faculty-Database-Android-App)
+
+[VIT Faculty Database-Windows Phone] (https://github.com/rahulkapoor90/VITfaculty)
+
+[VIT Academics - Command Line Interface] (https://github.com/aashrairavooru/VIT-Academics_CLI)
+
+[Custom Style Extension - Student Login] (https://github.com/rahulkapoor90/StudentLogin-VIT)
