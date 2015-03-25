@@ -19,11 +19,18 @@ Backend & WebApp - [VITacademics](https://github.com/aneesh-neelam/VITacademics)
 
 Python Client - [VITacademics Client-Python](https://github.com/aneesh-neelam/VITacademics-Client-Python)
 
+[VIT Academics - Command Line Interface] (https://github.com/aashrairavooru/VIT-Academics_CLI)
+
+
 ## VITacademics-Faculty
 
 Backend - [VITacademics-Faculty](https://github.com/kishore-narendran/vitacademics-faculty-dev)
 
 Android App - [Faculty](https://github.com/Nikh13/Faculty)
+
+[VIT Faculty Database-Android] (https://github.com/vatsal13/VIT-Faculty-Database-Android-App)
+
+[VIT Faculty Database-Windows Phone] (https://github.com/rahulkapoor90/VITfaculty)
 
 ## Captcha Parsers
 
@@ -56,3 +63,5 @@ Speed up Python using this Compiler/Runtime - [Medusa](https://github.com/rahul0
 [VITCloud](https://github.com/biocross/VITCloud)
 
 [VITCloud-dev](https://github.com/aneesh-neelam/VITcloud-Dev)
+
+[Custom Style Extension - Student Login] (https://github.com/rahulkapoor90/StudentLogin-VIT)
