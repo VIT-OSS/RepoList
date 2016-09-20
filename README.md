@@ -23,6 +23,7 @@ Python Client - [VITacademics Client-Python](https://github.com/aneesh-neelam/VI
 
 Leave/Outing Approval Notifier - [Approval Notifier](https://github.com/aarthykc/ApprovalNotifier)
 
+Course Page Downloader - [Course-Page-Downloader](https://github.com/kp96/Course-Page-Downloader)
 
 ## VITacademics-Faculty
 
