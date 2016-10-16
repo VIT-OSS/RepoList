@@ -55,6 +55,8 @@ Bash Script for [Volsbb-client](https://github.com/Fa773NM0nK/volsbb-client)
 
 [FFCS Add/Drop Automation](https://github.com/akshaydixi/ffcs-zapper)
 
+[FFCS Timetable Visualizer website](http://ffcsonthego.azurewebsites.net/) - [FFCSonTheGo!](https://github.com/VaTz88/FFCS-on-The-Go)
+
 ## Others
 
 VIT Procedures & Guide - [VITProcedures](https://github.com/sreeram-boyapati/VITProcedures)
@@ -68,3 +70,5 @@ Speed up Python using this Compiler/Runtime - [Medusa](https://github.com/rahul0
 [VITCloud-dev](https://github.com/aneesh-neelam/VITcloud-Dev)
 
 [Custom Style Extension - Student Login](https://github.com/rahulkapoor90/StudentLogin-VIT)
+
+[Chrome Extension to materialize Student Login](https://chrome.google.com/webstore/detail/vit-university-v-top-easy/fdfcegkkhiialnmbnhkjpplpckpkhbmp) - [V-TOP Easy](https://github.com/VaTz88/V-TOP-Easy)
